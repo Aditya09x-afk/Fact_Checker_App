@@ -5,3 +5,4 @@ pypdf
 langchain
 langchain-community
 python-dotenv
+unstructured

@@ -1,8 +1,7 @@
 streamlit
 openai
 tavily-python
-pypdf
+python-dotenv
 langchain
 langchain-community
-python-dotenv
-unstructured
+pypdf
